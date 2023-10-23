@@ -24,3 +24,40 @@ color:#4E8DE6;
 .subtitled{
 background-color:rgba(255, 255, 0,0.5) ;
 }
+
+.row{
+background-color: #4E8DE6;
+}
+
+.section{
+color: white;
+margin-right:70px;
+display: inline-block;
+}
+
+.row1{
+background-color:lightblue;
+}
+    
+.section1{
+margin-right:70px;
+display: inline-block;
+}
+   
+.row3{
+background-color:white;
+}
+
+.section2{
+margin-right:70px;
+display: inline-block;
+}
+
+.row3{
+background-color:lightblue;
+}
+
+.section3{
+margin-right:70px;
+display: inline-block;
+}
