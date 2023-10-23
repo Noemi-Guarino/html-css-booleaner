@@ -43,6 +43,7 @@ background-color:lightblue;
 margin-right:70px;
 display: inline-block;
 }
+
    
 .row3{
 background-color:white;
@@ -60,4 +61,22 @@ background-color:lightblue;
 .section3{
 margin-right:70px;
 display: inline-block;
+}
+
+.monitor{   
+background-image: url('../img/monitor.jpg');
+background-size: cover;
+background-repeat: no-repeat;
+color: white;
+width: 300px;
+height: 150px;
+}
+
+.graph{   
+background-image: url('../img/graph.jpg');
+background-size: cover;
+background-repeat: no-repeat;
+color: white;
+width: 300px;
+height: 150px;
 }
